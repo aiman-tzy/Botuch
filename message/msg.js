@@ -236,7 +236,7 @@ await msg.reply(require('util').format(teks))
      break
      
 case prefix + ["menu"]: {
-client.sendMessage(from, { text: `*List menu YanzBotz-MD*
+client.sendMessage(from, { text: `*List menu LynxBotz-MD*
 
 々 *INFO USER*
 • Nama Owner : Lynxaiman
